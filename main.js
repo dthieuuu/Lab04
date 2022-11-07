@@ -6,7 +6,7 @@ var data = [
   },
   {
     chucvu: "giaovu",
-    username: "ndk2",
+    username: "ndk12",
     password: "123"
   },
   {
