@@ -6,11 +6,11 @@ var data = [
   },
   {
     chucvu: "giaovu",
-    username: "ndk2",
+    username: "ndk12",
     password: "123"
   },
   {
-    chucvu: "sinhvien",
+    chucvu: "hocsinh",
     username: "ndk3",
     password: "123"
   }
