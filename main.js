@@ -10,7 +10,7 @@ var data = [
     password: "123"
   },
   {
-    chucvu: "sinhvien",
+    chucvu: "hocsinh",
     username: "ndk3",
     password: "123"
   }
