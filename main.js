@@ -1,17 +1,17 @@
 var data = [
   {
     chucvu: "giangvien",
-    username: "ndk1",
+    username: "dotranghieu_hus",
     password: "123"
   },
   {
     chucvu: "giaovu",
-    username: "ndk2",
+    username: "hieudo1235",
     password: "123"
   },
   {
     chucvu: "sinhvien",
-    username: "ndk3",
+    username: "dthieuuu1",
     password: "123"
   }
 ]

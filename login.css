@@ -1,13 +1,13 @@
 .login {
     width: 400px;
     height: 300px;
-    border: 1px solid grey;
+    border: 1px solid rgb(123, 226, 208);
     border-radius: 10px;
     text-align: center;
     margin: 0 auto;
 }
 h2 {
-    color: #868787;
+    color: #60bbbb;
     font-size: sans-serif;
 }
 input {
